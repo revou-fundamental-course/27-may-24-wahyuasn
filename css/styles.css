@@ -1,1 +1,37 @@
-/* ini css */
+/*ini css*/
+
+nav{
+    display: flex;
+    justify-content: space-between
+}
+nav>section {
+    display: flex;
+}
+.logo-icon{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
+.nav-item{
+    border: 1px solid black;
+}
+
+.benner-container{
+    height: 358px;
+    border: 1px solid black;
+}
+.facility-list{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.form-result{
+    height: 200px;
+    border: 1px solid black;
+}
+.message-us-section{
+    display: flex;
+}
+.result-container{
+    width: 100%;
+}
